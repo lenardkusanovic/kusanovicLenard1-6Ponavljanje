@@ -1,0 +1,7 @@
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\bin\Debug\kusanovicLenard1-6ponavljanje(3.zad).exe.config
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\bin\Debug\kusanovicLenard1-6ponavljanje(3.zad).exe
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\bin\Debug\kusanovicLenard1-6ponavljanje(3.zad).pdb
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\obj\Debug\kusanovicLenard1-6ponavljanje(3.zad).csprojAssemblyReference.cache
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\obj\Debug\kusanovicLenard1-6ponavljanje(3.zad).csproj.CoreCompileInputs.cache
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\obj\Debug\kusanovicLenard1-6ponavljanje(3.zad).exe
+C:\Users\3.D\Desktop\Lenard Kusanovic\kusanovicLenard1-6ponavljanje(3.zad)\kusanovicLenard1-6ponavljanje(3.zad)\obj\Debug\kusanovicLenard1-6ponavljanje(3.zad).pdb

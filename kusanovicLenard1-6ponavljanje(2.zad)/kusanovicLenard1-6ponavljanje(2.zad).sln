@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kusanovicLenard1-6ponavljanje(2.zad)", "kusanovicLenard1-6ponavljanje(2.zad)\kusanovicLenard1-6ponavljanje(2.zad).csproj", "{2240738E-D0DE-4367-9B5E-FDCE6BB0889B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2240738E-D0DE-4367-9B5E-FDCE6BB0889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2240738E-D0DE-4367-9B5E-FDCE6BB0889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2240738E-D0DE-4367-9B5E-FDCE6BB0889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2240738E-D0DE-4367-9B5E-FDCE6BB0889B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12859542-8EDC-4AA5-B195-CE71B30788A0}
+	EndGlobalSection
+EndGlobal
